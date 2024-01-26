@@ -1,0 +1,2 @@
+print("ahmad is cool");
+
